@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SignUpreact/static/css/main.7fa5d0b5.css",
+    "main.js": "/SignUpreact/static/js/main.b714f724.js",
+    "static/js/453.83d49121.chunk.js": "/SignUpreact/static/js/453.83d49121.chunk.js",
+    "index.html": "/SignUpreact/index.html",
+    "main.7fa5d0b5.css.map": "/SignUpreact/static/css/main.7fa5d0b5.css.map",
+    "main.b714f724.js.map": "/SignUpreact/static/js/main.b714f724.js.map",
+    "453.83d49121.chunk.js.map": "/SignUpreact/static/js/453.83d49121.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7fa5d0b5.css",
+    "static/js/main.b714f724.js"
+  ]
+}
